@@ -571,14 +571,14 @@ Tabs.Fly = Window:Tab({
     Icon = "user",
     Desc = "Stellar"
 })
-Tabs.Combat = Window:Tab({
-    Title = "ออร่า 🗡️",
-    Icon = "sword",
+Tabs.Hitbox = Window:Tab({
+    Title = "Hitbox",
+    Icon = "target",
     Desc = "Stellar"
 })
 Tabs.Combat = Window:Tab({
-    Title = "Hitbox",
-    Icon = "target",
+    Title = "ออร่า 🗡️",
+    Icon = "sword",
     Desc = "Stellar"
 })
 Tabs.Misc = Window:Tab({
